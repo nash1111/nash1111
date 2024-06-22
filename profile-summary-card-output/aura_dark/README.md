@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/nash1111/nash1111/master/profile-summary-card-output/aura_dark/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/nash1111/nash1111/master/profile-summary-card-output/aura_dark/4-productive-time.svg)
+```
+
+    
