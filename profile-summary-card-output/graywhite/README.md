@@ -15,40 +15,10 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/nash1111/nash1111/master/profile-summary-card-output/graywhite/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/nash1111/nash1111/master/profile-summary-card-output/graywhite/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/nash1111/nash1111/master/profile-summary-card-output/graywhite/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/nash1111/nash1111/master/profile-summary-card-output/graywhite/4-productive-time.svg)
 ```
 
     
